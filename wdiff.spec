@@ -1,11 +1,11 @@
 Summary:	Word-based diff front end
 Name:		wdiff
-Version:	1.2.1
+Version:	1.2.2
 Release:	1
 License:	GPL v2+
 Group:		Applications/Text
 Source0:	http://ftp.gnu.org/gnu/wdiff/%{name}-%{version}.tar.gz
-# Source0-md5:	fc54e044b229a23c1cfa8e5689196f24
+# Source0-md5:	1c6ddd1f3106139ff9fe00e934df715f
 URL:		http://www.gnu.org/software/wdiff/wdiff.html
 BuildRequires:	ncurses-devel
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
